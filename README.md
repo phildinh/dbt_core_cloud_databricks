@@ -1,4 +1,4 @@
-### dbt Cloud (Github version control) + dbt Core (Local Collaboration VS studio) + Databriocks (Catalog, Schema, Data + connections)
+### dbt Cloud (Github version control) + dbt Core (Local Collaboration VS studio) + Databricks (Catalog, Schema, Data + connections)
 
 ---
 

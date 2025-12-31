@@ -1,4 +1,4 @@
-### dbt Cloud (Github version control) + dbt Core (Local Collaboration VS studio) + Databricks (Catalog, Schema, Data + connections)
+### dbt Cloud (Github version control) + dbt Core (Local Collaboration VS code) + Databricks (Catalog, Schema, Data + connections)
 
 ---
 
@@ -159,6 +159,9 @@ This section will demonstrate:
 - Consistency between local and dbt Cloud execution
 
 This mirrors real-world team-based analytics engineering environments.
+
+Setup connections from VS Code (clone repo via Github and install UV package then setup connection)
+<img width="1908" height="1031" alt="image" src="https://github.com/user-attachments/assets/017f0538-3c78-491b-983f-3f4b6350a44e" />
 
 ---
 

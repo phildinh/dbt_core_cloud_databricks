@@ -1,4 +1,3 @@
-<img width="1897" height="905" alt="Screenshot 2025-12-31 113943" src="https://github.com/user-attachments/assets/2bcb1620-e384-450f-aaeb-282a21ba779a" /># dbt Analytics Engineering Project on Databricks  
 ### dbt Cloud (Github version control) + dbt Core (Local Collaboration VS studio) + Databriocks (Catalog, Schema, Data + connections)
 
 ---
